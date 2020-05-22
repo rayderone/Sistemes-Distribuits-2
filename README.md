@@ -79,10 +79,6 @@ Per últim tenim time per a poder contar el temps d’execució per a tots els p
 
 Llibreria per tractar expressions regulars.
 
-### Resultats obtinguts
-
-
-
 ### Referències
 
 *Llibreria pywren:*
